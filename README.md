@@ -1,4 +1,4 @@
-Zomato Data Analysis Project
+Zomato Data Analysis Project : 
 This project performs an end-to-end Exploratory Data Analysis (EDA) on Zomato's restaurant dataset. By leveraging Python, we uncover actionable insights regarding consumer spending habits, restaurant ratings, and ordering preferences to help optimize business decision-making.
 
 📊 Project Overview
